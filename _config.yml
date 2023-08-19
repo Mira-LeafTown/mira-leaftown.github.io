@@ -1,5 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: 落叶小镇自动构建仓库
-description: 落叶小镇自动构建仓库
+title: 落叶小镇
+description: 自动构建仓库
